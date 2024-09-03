@@ -2,4 +2,4 @@
 
 ## Desenvolvido com java. 
 
-- **Para cada exercício foi desenvolvido uma class.
+- Para cada exercício foi desenvolvido uma class.
