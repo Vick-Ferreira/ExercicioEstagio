@@ -13,11 +13,12 @@ public class Soma {
 		
 		int indice = 12;
 		int soma = 0;
-		int k = 1;
+		int k = 0;
 		
-		while (k < indice) {
-			soma = soma + k ;
+		while (k <= indice) {
 			k = k + 1;
+			soma = soma + k ;
+			
 			
 		}
 		
